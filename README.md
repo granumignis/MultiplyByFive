@@ -1,2 +1,6 @@
-# JUnit_Example_Application
-Objective: Create a basic java application that utilizes JUnit to perform unit tests
+# MultiplyByFive
+
+An example of a Java Class with it's own JUnit Test Case class to go with it.
+Created in Eclipse IDE
+
+
